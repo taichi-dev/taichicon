@@ -2,7 +2,7 @@
 
 We are hosting a series of online events (TaichiCon) to share our development experiences.  The first and second events are in Chinese and we plan to host one in English as well very soon :-)
 
-## TaichiCon02 (September 2021, Chinese)
+## TaichiCon02 (September 2021)
 
 Slides(English):
  - [A Brief History of Taichi Graphics](https://github.com/taichi-dev/taichicon/releases/download/taichicon02/A.Brief.History.of.Taichi.Graphics-Yuanming.Hu.pdf) (@yuanming-hu  )
