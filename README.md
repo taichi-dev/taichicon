@@ -21,6 +21,10 @@ Slides(English):
 Video Recording (Chinese):
  - (Bilibili) https://space.bilibili.com/1779922645
 
+<img src="https://github.com/taichi-dev/taichicon/raw/master/teasers/002_0.jpg" width="100%">
+<img src="https://github.com/taichi-dev/taichicon/raw/master/teasers/002_1.jpg" width="100%">
+<img src="https://github.com/taichi-dev/taichicon/raw/master/teasers/002_2.jpg" width="100%">
+
 ## TaichiCon 1 (April 2021, Chinese)
 
 Slides:
