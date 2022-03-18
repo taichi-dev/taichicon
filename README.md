@@ -1,6 +1,6 @@
 # TaichiCon: Taichi (Virtual) Conference
 
-We are hosting a series of online events (TaichiCon) to share our development experiences.  The first and second events are in Chinese and we plan to host one in English as well very soon :-)
+We are hosting a series of events (TaichiCon) to share our development experiences.  The first and second events are in Chinese and we plan to host one in English as well very soon :-)
 
 ## TaichiCon02 (September 2021)
 
